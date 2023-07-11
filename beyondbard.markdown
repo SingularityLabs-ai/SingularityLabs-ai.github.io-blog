@@ -20,4 +20,4 @@ The Beyond Bard Chrome extension is a powerful tool that can be used to enhance 
 ## Links
 
 * [Chrome Web Store](https://chrome.google.com/webstore/detail/beyond-bard-ai-chat-for-a/ceknbkmhppjloheidfdpmaijdcgofoif)
-* [GitHub](https://github.com/singularity-labs/beyond-bard)
+* [GitHub](https://github.com/singularitylabs-ai/beyond-bard)
