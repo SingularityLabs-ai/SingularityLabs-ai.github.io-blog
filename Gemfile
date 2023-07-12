@@ -8,6 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Singularity Labs version is running.
 # Happy Singularity Labsing!
 gem "jekyll", "~> 4.3.2"
+gem 'jekyll-postcss'
 # This is the default theme for new Singularity Labs sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
