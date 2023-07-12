@@ -38,9 +38,6 @@ plugins:
 #   sass_dir: _sass
 
 sass:
-  sass_dir:
-    - _sass
-    - node_modules
   load_paths:
     - _sass
     - node_modules
