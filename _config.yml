@@ -41,10 +41,9 @@ sass:
   sass_dir:
     - _sass
     - node_modules
-
-load_paths:
-  - _sass
-  - node_modules
+  load_paths:
+    - _sass
+    - node_modules
 
 # Exclude from processing.
 # The following items will not be processed, by default.
