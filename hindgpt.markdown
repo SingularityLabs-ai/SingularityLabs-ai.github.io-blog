@@ -4,7 +4,7 @@ title: HindGPT
 permalink: /hindgpt/
 ---
 <style type="text/css">
-  p {
+  ul {
     border: 1px solid black;
   }
 </style>
