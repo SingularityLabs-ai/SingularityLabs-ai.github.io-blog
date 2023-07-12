@@ -40,7 +40,6 @@ plugins:
 sass:
   load_paths:
     - _sass
-    - node_modules
 
 # Exclude from processing.
 # The following items will not be processed, by default.
