@@ -34,6 +34,9 @@ plugins:
   - jekyll-dotenv
   - jekyll-postcss
 
+sass:
+  sass_dir: _sass
+
 load_paths:
   - _sass
   - node_modules
