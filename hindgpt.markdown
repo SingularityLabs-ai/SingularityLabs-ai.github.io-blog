@@ -3,6 +3,11 @@ layout: page
 title: HindGPT
 permalink: /hindgpt/
 ---
+<style type="text/css">
+  p {
+    border: 1px solid black;
+  }
+</style>
 
 ## HindGPT Chrome Extension
 
@@ -20,3 +25,4 @@ The HindGPT Chrome extension is a powerful tool that can be used to interact wit
 
 * [Chrome Web Store](https://chrome.google.com/webstore/detail/hindgpt-chatgpt-of-hindus/meekeejnaelkiggfhdfjaolehdchhoop?hl=en&authuser=0)
 * [GitHub](https://github.com/SingularityLabs-ai/chatgpt-on-hindi-google-extension/)
+
