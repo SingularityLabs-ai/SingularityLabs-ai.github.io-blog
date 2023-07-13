@@ -8,12 +8,6 @@ permalink: /posts/
     ================
 {%- endif -%} 
 
-{% for post in site.posts %}
-- [{{ post.meta }}]({{ post.meta }})
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
-
 {{ content }}
 
 {% if site.paginate %} 
