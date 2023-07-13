@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    Singularity Labs is a generative AI startup founded by ex-FAANG employees with focus on hypermedia content generation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SingularityLabs-ai
+twitter_username: labssingularity
 github_username:  SingularityLabs-ai
 
 # Build settings
@@ -60,5 +60,7 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+permalink: /posts/:year/:month/:day/:title.html
+
 postcss:
   cache: false
