@@ -28,25 +28,25 @@ permalink: /posts/
     ----------------------
     {%- endif -%}
 
-    {%- assign date\_format = site.minima.date\_format | default: "%b %-d, %Y" -%}
+{%- assign date\_format = site.minima.date\_format | default: "%b %-d, %Y" -%}
 
-    {%- for post in posts -%}*  {{ post.date | date: date\_format }}
-        ### [{{ post.title | escape }}]({{ post.url | relative_url }})
-        {%- if site.show\_excerpts -%}
-            {{ post.excerpt }} 
-        {%- endif -%}
-    {%- endfor -%}
+{%- for post in posts -%}*  {{ post.date | date: date\_format }}
+### [{{ post.title | escape }}]({{ post.url | relative_url }})
+{%- if site.show\_excerpts -%}
+    {{ post.excerpt }} 
+{%- endif -%}
+{%- endfor -%}
 
-    {% if site.paginate %}
-        {%- if paginator.previous\_page %}*   [{{ paginator.previous\_page }}]({{ paginator.previous_page_path | relative_url }})
-        {%- else %}*   •
-        {%- endif %}*   
+{% if site.paginate %}
+{%- if paginator.previous\_page %}*   [{{ paginator.previous\_page }}]({{ paginator.previous_page_path | relative_url }})
+{%- else %}*   •
+{%- endif %}*   
 
-        {{ paginator.page }}
-        {%- if paginator.next\_page %}*   [{{ paginator.next\_page }}]({{ paginator.next_page_path | relative_url }})
-        {%- else %}*   •
-        {%- endif %}
-    {%- endif %}
+{{ paginator.page }}
+{%- if paginator.next\_page %}*   [{{ paginator.next\_page }}]({{ paginator.next_page_path | relative_url }})
+{%- else %}*   •
+{%- endif %}
+{%- endif %}
 {%- endif -%}
 
 <!-- <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div> -->

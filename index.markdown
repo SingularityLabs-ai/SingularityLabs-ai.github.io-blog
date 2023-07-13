@@ -4,7 +4,3 @@
 
 layout: home
 ---
-
-## No posts
-
-No more posts here
