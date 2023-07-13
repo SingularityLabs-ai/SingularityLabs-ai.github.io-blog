@@ -1,7 +1,7 @@
 ---
-permalink: /posts/
-layout: default
+layout: page
 title: Posts
+permalink: /posts/
 ---
 
 
