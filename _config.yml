@@ -71,10 +71,10 @@ header_pages:
  - truthgpt.markdown
  - grandgpt.markdown
  - beyondbard.markdown
- - googlebrad.markdown
+ - googlebard.markdown
  - googlegpt.markdown
  - scigpt.markdown
  - hindgpt.markdown
- - blog.markdown
+ - posts.markdown
  - about.markdown
  - privacypolicy.markdown
