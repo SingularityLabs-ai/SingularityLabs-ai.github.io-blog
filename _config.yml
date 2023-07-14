@@ -66,3 +66,16 @@ permalink: /posts/:year/:month/:day/:title.html
 
 postcss:
   cache: false
+
+header_pages:
+ - truthgpt.md
+ - grandgpt.md
+ - beyondbard.md
+ - googlebrad.md
+ - googlegpt.md
+ - scigpt.md
+ - hindgpt.md
+ - blog.md
+ - about.md
+ - privacypolicy.md
+
