@@ -4,9 +4,9 @@ title: HindGPT
 permalink: /hindgpt/
 ---
 <style type="text/css">
-  ul {
+  /*ul {
     border: 1px solid black;
-  }
+  }*/
 </style>
 
 ## HindGPT Chrome Extension
