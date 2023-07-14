@@ -68,14 +68,13 @@ postcss:
   cache: false
 
 header_pages:
- - truthgpt.md
- - grandgpt.md
- - beyondbard.md
- - googlebrad.md
- - googlegpt.md
- - scigpt.md
- - hindgpt.md
- - blog.md
- - about.md
- - privacypolicy.md
-
+ - truthgpt.markdown
+ - grandgpt.markdown
+ - beyondbard.markdown
+ - googlebrad.markdown
+ - googlegpt.markdown
+ - scigpt.markdown
+ - hindgpt.markdown
+ - blog.markdown
+ - about.markdown
+ - privacypolicy.markdown
