@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What does elon's x. ai actually do?
+title: What does Elon's x.ai actually do?
 date: 2023-07-14 11:21 +0530
 ---
 
