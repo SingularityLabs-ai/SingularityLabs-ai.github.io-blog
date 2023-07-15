@@ -19,5 +19,4 @@ The TruthGPT Chrome extension is a powerful tool that can be used to help users 
 ## Links
 
 * [Chrome Web Store](https://chrome.google.com/webstore/detail/truthgpt-no-hallucination/ekaamfcgakjaolehpokjkilkghkbanic/related?hl=en&authuser=0)
-* [GitHub](https://github.com/singularitylabs-ai/truthgpt)
-
+* [GitHub](https://github.com/singularitylabs-ai/truthgpt-mini)
