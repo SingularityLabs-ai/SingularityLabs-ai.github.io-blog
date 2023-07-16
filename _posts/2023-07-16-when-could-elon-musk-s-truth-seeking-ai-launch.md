@@ -3,6 +3,9 @@ layout: post
 title: When could Elon Musk's 'truth-seeking' AI launch?
 date: 2023-07-16 08:57 +0530
 ---
+
+Well it [has](https://chrome.google.com/webstore/detail/truthgpt-no-hallucination/ekaamfcgakjaolehpokjkilkghkbanic?hl=en&authuser=0), if you are talking about Elon's then you might have to wait.
+
 Elon Musk has not yet announced a specific launch date for his "truth-seeking" AI, which he has dubbed TruthGPT. However, he has said that he is working on it with a team of engineers and researchers, and that he hopes to launch it in the near future.
 
 In a tweet on April 17, 2023, Musk said that TruthGPT is "designed to be a maximum truth-seeking AI that tries to understand the nature of the universe." He also said that the AI will be "open-source and non-profit," and that it will be "used to explore the mysteries of the universe and to help people understand the world around them."
