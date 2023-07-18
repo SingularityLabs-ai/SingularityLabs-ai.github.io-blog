@@ -77,4 +77,4 @@ header_pages:
  - hindgpt.markdown
  - posts.markdown
  - about.markdown
- - privacypolicy.markdown
+ # - privacypolicy.markdown
