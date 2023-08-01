@@ -69,6 +69,7 @@ postcss:
 
 header_pages:
  - truthgpt.markdown
+ - truthgptforgoogle.markdown
  - grandgpt.markdown
  - beyondbard.markdown
  - googlebard.markdown
