@@ -21,7 +21,7 @@
 title: Singularity Labs
 email: labssingularity@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   Singularity Labs is a generative AI startup founded by ex-FAANG employees with focus on exploring trustworthy super-intelligent AI for a safer world
+   Singularity Labs is a generative AI startup with focus on exploring trustworthy super-intelligent AI for a safer world
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: labssingularity
