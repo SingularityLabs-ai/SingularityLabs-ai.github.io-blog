@@ -54,3 +54,5 @@ gem 'jekyll-dotenv', '~> 0.1.0'
 gem 'jekyll-feed', '~> 0.17.0'
 gem 'jekyll-postcss', '~> 0.5.0'
 
+gem "jekyll-simple-dark"
+#gem "jekyll-paginator" # This line isn't necessary if you use github-pages
