@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How can  Tesla possibly reduce cost of robots from 00K for Boston dynamics
-  down to 0K ?
+title: How can  Tesla possibly reduce cost of robots from 200K for Boston dynamics
+  down to 20K ?
 date: 2023-07-15 11:07 +0530
 ---
 
