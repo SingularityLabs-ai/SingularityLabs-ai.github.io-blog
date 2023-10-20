@@ -12,9 +12,9 @@ gem "jekyll", "~> 4.3.2"
 # This is the default theme for new Singularity Labs sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 gem "minima", :github => 'jekyll/minima'
-group :jekyll_plugins do
-  gem 'jekyll-remote-theme', '~> 0.4.3'
-end
+# group :jekyll_plugins do
+#   gem 'jekyll-remote-theme', '~> 0.4.3'
+# end
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
