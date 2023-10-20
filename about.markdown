@@ -1,6 +1,7 @@
 ---
 layout: article
 title: About
+permalink: /about/
 ---
 
 This is the common page for all apps by Singularity Labs.  For the opensource apps you can find out the codes at 
