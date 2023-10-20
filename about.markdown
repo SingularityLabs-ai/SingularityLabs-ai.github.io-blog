@@ -1,10 +1,6 @@
 ---
 layout: article
 title: About
-aside:
-  toc: true
-sidebar:
-  nav: layouts
 ---
 
 This is the common page for all apps by Singularity Labs.  For the opensource apps you can find out the codes at 
