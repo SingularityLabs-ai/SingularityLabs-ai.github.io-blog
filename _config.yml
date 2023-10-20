@@ -30,7 +30,7 @@ discord_url: https://discord.gg/jc4xtF58Ve
 github_username:  SingularityLabs-ai
 
 # Build settings
-theme: minima
+# theme: minima
 # theme: jekyll-simple-dark
 # theme: jekyll-text-theme
 
