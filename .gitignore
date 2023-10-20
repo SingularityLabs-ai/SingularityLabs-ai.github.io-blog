@@ -1,3 +1,4 @@
+node_modules/.bin
 node_modules/@alloc
 node_modules/@jridgewell
 node_modules/@nodelib
@@ -67,7 +68,7 @@ node_modules/minimatch
 node_modules/mz
 node_modules/nanoid
 node_modules/node-releases
-node_modules/node_modules/csso
+node_modules/csso
 node_modules/node_modules/didyoumean
 node_modules/normalize-path
 node_modules/normalize-range
