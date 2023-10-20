@@ -31,14 +31,16 @@ github_username:  SingularityLabs-ai
 
 # Build settings
 #theme: minima
-theme: jekyll-simple-dark
+# theme: jekyll-simple-dark
+theme: jekyll-text-theme
+
 plugins:
   - jekyll-feed
   - jekyll-dotenv
   - jekyll-postcss
-  - jekyll-paginate
-paginate: 5 # Posts per page for jekyll-simple-dark
-paginate_path: "page:num/"
+  # - jekyll-paginate
+# paginate: 5 # Posts per page for jekyll-simple-dark
+# paginate_path: "page:num/"
 
 # sass:
 #   sass_dir: _sass
