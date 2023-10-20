@@ -38,7 +38,7 @@ theme: minima
 #   skin: dark
 
 plugins:
-  # - jekyll-remote-theme
+  - jekyll-prettier
   - jekyll-feed
   - jekyll-dotenv
   - jekyll-postcss
