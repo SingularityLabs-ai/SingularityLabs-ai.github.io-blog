@@ -31,6 +31,9 @@ github_username:  SingularityLabs-ai
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
+
 # theme: jekyll-simple-dark
 # theme: jekyll-text-theme
 
