@@ -10,8 +10,8 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.2"
 # gem 'jekyll-postcss'
 # This is the default theme for new Singularity Labs sites. You may change this to anything you like.
-# gem "minima", "~> 2.5"
-gem "minima", :github => 'jekyll/minima'
+gem "minima", "~> 2.5"
+# gem "minima", :github => 'jekyll/minima'
 # group :jekyll_plugins do
 #   gem 'jekyll-remote-theme', '~> 0.4.3'
 # end
