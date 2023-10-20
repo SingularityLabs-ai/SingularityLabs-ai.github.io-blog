@@ -31,21 +31,15 @@ github_username:  SingularityLabs-ai
 
 # Build settings
 theme: minima
-# theme: jekyll-simple-dark
-# theme: jekyll-text-theme
 # remote_theme: jekyll/minima@3cdd14d
 minima:
   logo: assets/logo.png
-#   skin: dark
 
 plugins:
   - jekyll-prettier
   - jekyll-feed
   - jekyll-dotenv
   - jekyll-postcss
-  # - jekyll-paginate
-# paginate: 5 # Posts per page for jekyll-simple-dark
-# paginate_path: "page:num/"
 
 # sass:
 #   sass_dir: _sass
@@ -53,9 +47,6 @@ plugins:
 sass:
   load_paths:
     - _sass
-#     - node_modules
-
-# include: ["node_modules/tailwindcss"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
