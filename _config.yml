@@ -33,9 +33,9 @@ github_username:  SingularityLabs-ai
 theme: minima
 # theme: jekyll-simple-dark
 # theme: jekyll-text-theme
-remote_theme: jekyll/minima
-minima:
-  skin: dark
+# remote_theme: jekyll/minima
+# minima:
+#   skin: dark
 
 plugins:
   # - jekyll-remote-theme
