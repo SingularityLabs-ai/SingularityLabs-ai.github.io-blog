@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: landing
 title: About
 permalink: /about/
 sidebar:
