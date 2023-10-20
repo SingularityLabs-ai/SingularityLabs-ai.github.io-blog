@@ -32,7 +32,7 @@ github_username:  SingularityLabs-ai
 # Build settings
 #theme: minima
 # theme: jekyll-simple-dark
-theme: jekyll-text-theme
+# theme: jekyll-text-theme
 
 plugins:
   - jekyll-feed
