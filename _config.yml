@@ -25,6 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 # baseurl: "" # the subpath of your site, e.g. /blog
 baseurl: "/blog"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://singularitylabs-ai.github.io" # the base hostname & protocol for your site
+
 twitter_username: labssingularity
 discord_url: https://discord.gg/jc4xtF58Ve
 github_username:  SingularityLabs-ai
@@ -36,6 +38,7 @@ minima:
   logo: assets/logo.png
 
 plugins:
+  - jekyll-sitemap
   - jekyll-prettier
   - jekyll-feed
   - jekyll-dotenv
