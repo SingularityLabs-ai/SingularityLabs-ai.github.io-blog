@@ -21,6 +21,7 @@ ChatGPT is good at generating creative text formats, while Bard is good at answe
 
 The best chatbot for you will depend on your specific needs and preferences. If you are looking for a chatbot that can answer questions in a comprehensive and informative way, then Bard would be a good choice.
 My favorite is Pi for it's sense of humour and creativity. If you want to test them out together you can try this tool 
+
 [https://github.com/SingularityLabs-ai/MultiGPT-mini](https://github.com/SingularityLabs-ai/MultiGPT-mini)
 
 
