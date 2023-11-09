@@ -1,13 +1,14 @@
-#SingularityLabs-ai
+
+## blog
 
 
-In the case of Minima, you see only the following files in your Jekyll site directory:
+##
 
-.
-├── Gemfile
-├── Gemfile.lock
-├── _config.yml
-├── _posts
-│   └── 2016-12-04-welcome-to-jekyll.markdown
-├── about.markdown
-└── index.markdown
+### 🤔 Questions? Problems? Suggestions?
+
+#### Get help - [Discord 💬](https://discord.gg/jc4xtF58Ve)
+
+[![Join us on Discord](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
+
+##
+
