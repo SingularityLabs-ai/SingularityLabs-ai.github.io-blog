@@ -17,9 +17,9 @@ Here is a comparison of the various chatbots ChatGPT, Bard, Claude, Perplexity, 
 
 Overall, all of these chatbots are impressive language models with a wide range of capabilities. However, they each have their own strengths and weaknesses. 
 
-ChatGPT is good at generating creative text formats, while Bard is good at answering questions in a comprehensive and informative way. Claude, Perplexity, and Pi are all good at generating different creative text formats.
+ChatGPT is good at generating creative text formats, while Bard is good at answering questions in a comprehensive way. Claude, Perplexity, and Pi are all better than these at generating creative text formats.
 
-The best chatbot for you will depend on your specific needs and preferences. If you are looking for a chatbot that can generate creative text formats, then ChatGPT, Claude, Perplexity, or Pi would be a good choice. If you are looking for a chatbot that can answer questions in a comprehensive and informative way, then Bard would be a good choice.
-
-My favorite is Pi. If you want to test them out together you can try this tool 
+The best chatbot for you will depend on your specific needs and preferences. If you are looking for a chatbot that can answer questions in a comprehensive and informative way, then Bard would be a good choice.
+My favorite is Pi for it's sense of humour and creativity. If you want to test them out together you can try this tool 
 https://github.com/SingularityLabs-ai/MultiGPT-mini
+
