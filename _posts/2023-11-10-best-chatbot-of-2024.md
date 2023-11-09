@@ -20,11 +20,15 @@ Overall, all of these chatbots are impressive language models with a wide range 
 ChatGPT is good at generating creative text formats, while Bard is good at answering questions in a comprehensive way. Claude, Perplexity, and Pi are all better than these at generating creative text formats.
 
 The best chatbot for you will depend on your specific needs and preferences. If you are looking for a chatbot that can answer questions in a comprehensive and informative way, then Bard would be a good choice.
-My favorite is Pi for it's sense of humour and creativity. If you want to test them out together you can try this tool :
+My favorite is Pi for it's sense of humour and creativity. 
 
-- [https://github.com/SingularityLabs-ai/MultiGPT-mini](https://github.com/SingularityLabs-ai/MultiGPT-mini)
+
+## Links
+
+If you want to test them out together you can try this tool :
+
 - [Chrome](https://chrome.google.com/webstore/detail/multigpt-access-all-chatb/dfobejficjaelohpjceiicphofmmglop?hl=en&authuser=0)
 - [Edge](https://microsoftedge.microsoft.com/addons/detail/multigpt-access-all-cha/hdlddhcngcdpcgajecjoccekfofmllfn)
 - [Brave](https://chrome.google.com/webstore/detail/multigpt-access-all-chatb/dfobejficjaelohpjceiicphofmmglop?hl=en&authuser=0)
-
+- [Code (Github)](https://github.com/SingularityLabs-ai/MultiGPT-mini)
 
