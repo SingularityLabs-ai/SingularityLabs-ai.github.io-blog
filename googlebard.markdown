@@ -1,7 +1,7 @@
 ---
 layout: page
-title: GoogleBrad
-permalink: /googlebrad/
+title: GoogleBard
+permalink: /GoogleBard/
 ---
 
 ## GoogleBard Chrome Extension
