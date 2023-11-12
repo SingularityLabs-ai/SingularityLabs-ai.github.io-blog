@@ -13,12 +13,12 @@ date: 2023-11-12 09:18 +0530
 | gpt-j |Google AI| 28 | 614,432,000 | 2,520 |
 | roberta-base |Google AI| 12 | 137,265,792 | 166 |
 | roberta-large |Google AI| 24 | 355,010,272 | 512 |
-| albert-base-v2 |Google AI| 12 | 128,000,000 | 160 | Yes |
-| albert-large-v2 |Google AI| 24 | 355,000,000 | 440 | Yes |
-| electra-base Google AI|| 12 | 110,000,000 | 132 | Yes |
-| electra-large |Google AI| 24 | 330,000,000 | 400 | Yes |
-| distilbert-base-multilingual-cased |Hugging Face| 6 | 66,343,232 | 36 | Yes |
-| distilbert-base-chinese |Hugging Face| 6 | 66,343,232 | 36 | Yes |
+| albert-base-v2 |Google AI| 12 | 128,000,000 | 160 |
+| albert-large-v2 |Google AI| 24 | 355,000,000 | 440 |
+| electra-base Google AI|| 12 | 110,000,000 | 132 |
+| electra-large |Google AI| 24 | 330,000,000 | 400 |
+| distilbert-base-multilingual-cased |Hugging Face| 6 | 66,343,232 | 36 |
+| distilbert-base-chinese |Hugging Face| 6 | 66,343,232 | 36 |
 
 
 I hope this helps!
