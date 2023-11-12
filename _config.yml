@@ -21,7 +21,7 @@
 title: Singularity Labs
 email: labssingularity@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   Singularity Labs is a generative AI startup with focus on minimizing the gap between generative AI and trur AGI.
+   Singularity Labs is a generative AI startup with focus on minimizing the gap between generative AI and true AGI.
 # baseurl: "" # the subpath of your site, e.g. /blog
 baseurl: "/blog"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
