@@ -89,7 +89,7 @@ a {
   text-decoration: none;
 }
 a:visited {
-  color: #1756a9;
+/*  color: #1756a9;*/
 }
 a:hover {
   color: #111;
